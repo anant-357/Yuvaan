@@ -1,5 +1,5 @@
 {
-  "homepage": "https://www.yuvaaniiitg.org.in/Yuvaan2024",
+  "homepage": "https://anant-357.github.io/Yuvaan/",
   "name": "test-app",
   "private": true,
   "version": "0.0.0",
@@ -14,23 +14,13 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "@emotion/react": "^11.11.3",
-    "@emotion/styled": "^11.11.0",
     "@gsap/react": "^2.1.0",
-    "@mui/icons-material": "^5.15.11",
     "gsap": "^3.12.5",
-    "@ionic/react": "^7.7.3",
-    "ionicons": "^7.2.2",
     "normalize.css": "^8.0.1",
     "prettier": "^3.2.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-player": "^2.14.1",
-    "react-router-dom": "^6.22.1",
-    "react-scroll": "^1.9.0",
-    "react-slick": "^0.30.2",
-    "slick-carousel": "^1.8.1",
-    "swiper": "^11.0.6",
     "typescript": "^5.3.3",
     "vite-plugin-css": "^1.0.4"
   },
