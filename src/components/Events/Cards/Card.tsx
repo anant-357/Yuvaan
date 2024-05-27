@@ -1,6 +1,6 @@
 import { EventData } from "../../../assets/events/data";
-import sword from "/src/assets/events/images_cards/sword.png";
-import divider from "/src/assets/utils/decorator-hr.png";
+import sword from "/events/images_cards/sword.png";
+import divider from "/common/decorator-hr.png";
 
 function Forms(props) {
   const mystyle = {
@@ -37,8 +37,7 @@ function Card(props) {
     <div
       className="event-card"
       style={{
-        backgroundImage:
-          "url(https://dpqe9pvop7vdk.cloudfront.net/events/" + data.bg + ")",
+        backgroundImage: "url(events/" + data.bg + ")",
       }}
     >
       <div className="event-titleBox">

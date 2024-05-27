@@ -2,7 +2,7 @@
 .events-map-tlparent {
   display: flex;
   flex-direction: column;
-  background-image: url("https://dpqe9pvop7vdk.cloudfront.net/events/images_cards/map.png");
+  background-image: url("/events/images_cards/map.png");
   height: 1800px;
   width: 100vw;
   background-size: cover;
@@ -109,4 +109,3 @@
   display: flex;
   flex-direction: column;
 }
-

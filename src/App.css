@@ -7,9 +7,8 @@
   margin: 0;
   border: 0;
   box-sizing: border-box;
-  cursor: url("./utils/cursor.png"), auto;
+  cursor: url("/common/cursor.png"), auto;
   user-select: none;
-  overflow-y: visible;
   scrollbar-width: 0;
 }
 
@@ -19,21 +18,21 @@
 
 button:hover,
 a:hover {
-  cursor: url("./utils/cursor-pointer.png"), auto;
+  cursor: url("/common/cursor-pointer.png"), auto;
 }
 
 button > *:hover,
 a > *:hover {
-  cursor: url("./utils/cursor-pointer.png"), auto;
+  cursor: url("/common/cursor-pointer.png"), auto;
 }
 
 body {
   max-width: 100vw;
-  overflow-x: clip;
+  overflow-x: hidden;
 }
 
 .hover:hover {
-  cursor: url("./utils/cursor-pointer.png"), auto;
+  cursor: url("/common/cursor-pointer.png"), auto;
 }
 
 *::selection {

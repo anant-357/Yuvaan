@@ -1,24 +1,3 @@
-// import { lazy } from 'react';
-// const treasure = lazy(() => import("./images_cards/treasure.jpg"));
-// const cid = lazy(() => import("./images_cards/cid6.jpg"));
-// const ygt = lazy(() => import("./images_cards/yuvaantalent1.jpg"));
-// const symphony = lazy(() => import("./images_cards/symphony4.jpg"));
-// const riff = lazy(() => import("./images_cards/riff4.jpg"));
-// const trivia = lazy(() => import("./images_cards/trivizaquiz1.jpg"));
-// const mun = lazy(() => import("./images_cards/mun1.png"));
-// const movie = lazy(() => import("./images_cards/movemania2.jpg"));
-// const cosplay = lazy(() => import("./images_cards/cosplay.jpg"));
-
-// import treasure from "./images_cards/treasure.jpg";
-// import cid from "./images_cards/cid6.jpg";
-// import ygt from "./images_cards/yuvaantalent1.jpg";
-// import symphony from "./images_cards/symphony4.jpg";
-// import riff from "./images_cards/riff4.jpg";
-// import trivia from "./images_cards/trivizaquiz1.jpg";
-// import mun from "./images_cards/mun1.png";
-// import movie from "./images_cards/movemania2.jpg";
-// import cosplay from "./images_cards/cosplay.jpg";
-
 export interface EventData {
   title: string;
   date: string;
